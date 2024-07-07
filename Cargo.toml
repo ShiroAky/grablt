@@ -1,5 +1,5 @@
-[build]
-build = "build.rs"
+# [build]
+# build = "build.rs"
 
 [package]
 name = "grablt"
