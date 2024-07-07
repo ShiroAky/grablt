@@ -20,7 +20,7 @@ async fn main() {
     // let latest_version = update::get_latest_version(&token_api);
 
     let matches = Command::new("GrabIt")
-        .version("1.0")
+        .version("3.3.0")
         .about("Descarga archivos desde URL")
         .arg(
             Arg::new("url")
